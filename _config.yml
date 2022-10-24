@@ -55,8 +55,8 @@ highlight_theme: github
 #      Author      #
 # ---------------- #
 author: HMF
-organization: 
-organization_url: 
+organization:
+organization_url:
 github_username: hmfdev
 location: Canton, China
 email: hmfdev900@gmail.com
@@ -136,29 +136,29 @@ comments_provider: giscus
 # !!!Important!!! Please modify infos below to yours
 # disqus 配置参考：https://disqus.com
 disqus:
-    username: 
+    username:
 # gitment 配置参考：https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: hmfdev
+    owner: mzlogin
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: hmfdev
+    owner: mzlogin
     repo: blog-comments
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # utterances 配置参考：https://utteranc.es/
 utterances:
-    repo: hmfdev/blog-comments
+    repo: mzlogin/blog-comments
 # beaudar 配置参考：https://beaudar.lipk.org/
 beaudar:
-    repo: hmfdev/blog-comments
+    repo: mzlogin/blog-comments
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: hmfdev/blog-comments
+    repo: mzlogin/blog-comments
     repo-id: MDEwOlJlcG9zaXRvcnk5MzEyNzkxNw==
     category: Announcements
     category-id: DIC_kwDOBY0E7c4CRtg9
@@ -181,7 +181,7 @@ google:
     analytics_id: UA-80669434-1
     adsense:
         footer: true
-        sidebar: true 
-        sidebar-detail: true 
+        sidebar: true
+        sidebar-detail: true
         content_header: false
         content_footer: false
