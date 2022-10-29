@@ -1,27 +1,56 @@
 - sitename: GitHub
-  name: mzlogin
-  url: https://github.com/mzlogin
+  name: hmfdev
+  url: https://github.com/hmfdev
 
-- sitename: 掘金
-  name: mzlogin
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
+- sitename: Gitee
+  name: hmfdev
+  url: https://gitee.com/hmfdev
 
-- sitename: LinkedIn
-  name: mazhuang
-  url: https://www.linkedin.com/in/mazhuang
+- sitename: GitLab
+  name: hmfdev
+  url: https://gitlab.com/hmfdev
+
+- sitename: GitCode
+  name: 技术的搬运工
+  url: https://gitcode.net/IT_Boy_
 
 - sitename: 博客
-  name: 码志
-  url: http://mazhuang.org
+  name: 朝夕
+  url: https://hmfdev.github.io
 
-- sitename: 微博
-  name: mzlogin
-  url: http://weibo.com/mzlogin
+- sitename: CSDN
+  name: 技术的搬运工
+  url: https://blog.csdn.net/IT_Boy_
 
-- sitename: 知乎
-  name: mzlogin
-  url: http://www.zhihu.com/people/mzlogin
+- sitename: 博客园
+  name: 技术的搬运工
+  url: https://www.cnblogs.com/hmfdev
 
-- sitename: 豆瓣
-  name: 闷骚的程序员
-  url: http://www.douban.com/people/freedim
+
+#- sitename: GitHub
+#  name: mzlogin
+#  url: https://github.com/mzlogin
+#
+#- sitename: 掘金
+#  name: mzlogin
+#  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
+#
+#- sitename: LinkedIn
+#  name: mazhuang
+#  url: https://www.linkedin.com/in/mazhuang
+#
+#- sitename: 博客
+#  name: 码志
+#  url: http://mazhuang.org
+#
+#- sitename: 微博
+#  name: mzlogin
+#  url: http://weibo.com/mzlogin
+#
+#- sitename: 知乎
+#  name: mzlogin
+#  url: http://www.zhihu.com/people/mzlogin
+#
+#- sitename: 豆瓣
+#  name: 闷骚的程序员
+#  url: http://www.douban.com/people/freedim

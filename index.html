@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 class: home
 css: ['pages/index.css']
 comments: false
@@ -10,12 +11,12 @@ comments: false
 {% assign assets_base_url = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: '@master' %}
 {% endif %}
 <section class="banner">
-    <div class="collection-head">
+    <div class="collection-head" style="padding: 0px;">
       <div class="container">
         <div class="columns">
           <div class="column two-thirds">
             <div class="collection-title">
-              <h1 class="collection-header" id="sub-title"><span>{{ site.subtitle }}</span></h1>
+              <h1 class="collection-header" id="sub-title" style="font-size: 25px;"><span>{{ site.subtitle }}</span></h1>
               <div class="collection-info">
                 <span class="meta-info mobile-hidden">
                   <span class="octicon octicon-location"></span>

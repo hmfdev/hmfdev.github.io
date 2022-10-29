@@ -1,14 +1,14 @@
 ---
-layout: page
+layout: about
 title: About
 description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+keywords: hmfdev, hmf, HMF, 朝夕
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是朝夕，朝而升，夕而落。
 
 仰慕「优雅编码的艺术」。
 
