@@ -93,9 +93,13 @@
     {% endif %}
 </head>
 <body class="{{ page.class }}" data-mz="{{ page.class }}">
-    <header class="site-header">
+    <header class="site-header" style="padding-bottom: 13px;">
         <div class="container">
-            <h1><a href="{{ site.url }}/" title="{{ site.title }}"><span class="octicon octicon-mark-github"></span> {{ site.title }}</a></h1>
+            <h1 style="line-height: 1.1; font-size: 30px;">
+                <a href="{{ site.url }}/" title="{{ site.title }}">
+                    <img class="octicon" src="{{ assets_base_url }}/favicon.ico" style="width: 34px; height: 34px; vertical-align: top;"/> {{ site.title }}
+                </a>
+            </h1>
             <button class="collapsed mobile-visible" type="button" onclick="toggleMenu();">
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
