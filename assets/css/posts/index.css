@@ -12,8 +12,7 @@
     color: #999;
 }
 
-.post-directory ul,
-.post-directory ol {
+.post-directory ul, .post-directory ol {
     padding-left: 1.5em;
     list-style: none;
 }
@@ -28,20 +27,18 @@
     color: #bababa;
 }
 
-.post-directory a:hover,
-.post-directory a:active,
-.post-directory a.on {
+.post-directory a:hover, .post-directory a:active, .post-directory a.on {
     color: #4183c4;
 }
 
 .posts-list {
     line-height: 2;
     color: #555;
-    list-style-type:disc;
+    list-style-type: disc;
 }
 
 .posts-list::before {
-/*    content: " ";*/
+    /*    content: " ";*/
     position: absolute;
     left: 0;
     top: 12px;
@@ -105,7 +102,7 @@
     border-bottom-left-radius: 4px;
 }
 
-.list-group-item>.badge {
+.list-group-item > .badge {
     float: right;
 }
 
